@@ -35,13 +35,13 @@
 /* 鼠标  Cursor */
 /* See https://www.antmoe.com/posts/a811d614/ */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/MMengyiyu/HexoStaticFile@master/img/cursor/default.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/MMengyiyu/HexoStaticFile@latest/img/cursor/default.cur),
     default;
 }
 
 a,
 img {
-  cursor: url(https://cdn.jsdelivr.net/gh/MMengyiyu/HexoStaticFile@master/img/cursor/pointer.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/MMengyiyu/HexoStaticFile@latest/img/cursor/pointer.cur),
     default;
 }
 

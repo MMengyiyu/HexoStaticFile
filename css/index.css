@@ -1,0 +1,14 @@
+
+
+/* 甜甜圈字体 */
+/* See http://www.diyiziti.com/List */
+@font-face{
+    font-family:'DoughnutPoster' ;  /* 字体名自定义即可 */
+    src:url('/fonts/DoughnutPoster.ttf'); /* 字体文件路径 */
+    font-display : swap;
+}
+
+.table-container,div#post li,div#post p {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Lato,Roboto,"PingFang SC",STZhongsong,"Lantinghei SC",sans-serif
+}
+
